@@ -1,0 +1,5 @@
+name: AMFCooldownControl
+version: ${project.version}
+main: br.com.centralandradina.amfcooldowncontrol.AMFCooldownControl
+api-version: 1.16
+description: Control attack speed and remove attack speed damage table from minecraft damage system
