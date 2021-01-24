@@ -91,24 +91,6 @@ public final class AMFCooldownControl extends JavaPlugin implements Listener
                     }
                 }.runTaskLater(this, delay * 20);
 
-                /*
-                // Recupera o bonus de ataque da arma
-                double weaponBonusAttack = 50;
-                double originalDamage = event.getFinalDamage();
-
-                // Calcula o novo danno
-                double finalDamage = (originalDamage * weaponBonusAttack / 100) + originalDamage;
-
-                // Seta o dano final
-                event.setDamage(finalDamage);
-
-                //
-                attacker.sendMessage(_color("&aHit done! Damage " + event.getFinalDamage() + " [original: " + originalDamage + "]"));
-
-                if(event.getEntity() instanceof Player) {
-                    event.getEntity().sendMessage(_color("&8Hit taken! Damage " + event.getFinalDamage() + " [original: " + originalDamage + "]"));
-                }
-                */
             }
         }
     }
