@@ -1,3 +1,7 @@
+
+# Join 
+[![Discord](https://i.imgur.com/tyZLFHl.png)](https://discord.gg/cKE8kqGXWK)
+
 # AMFCooldownControl
 
 ### Control attack speed, ignoring minecraft attack cooldown system
