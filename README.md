@@ -1,6 +1,6 @@
 
 # Join 
-[![Discord](https://i.imgur.com/tyZLFHl.png)](https://discord.gg/cKE8kqGXWK)
+[![Discord](https://i.imgur.com/tyZLFHl.png)](https://discord.gg/DX27dkGeW4)
 
 # AMFCooldownControl
 
